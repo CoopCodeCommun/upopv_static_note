@@ -1,0 +1,6 @@
+/* TEAM */
+Creator: Vortex Upop
+
+/* SITE */
+Generator: Docs2Static (https://github.com/CoopCodeCommun/Docs2static)
+Language: fr
